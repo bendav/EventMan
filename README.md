@@ -1,0 +1,4 @@
+EventMan
+========
+
+Sogeti Capstone 
